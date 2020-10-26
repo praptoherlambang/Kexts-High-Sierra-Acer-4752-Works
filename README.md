@@ -5,7 +5,7 @@ Semua berjalan dengan baik, tinggal copy dan replace kexts.
 
 Untuk clovernya silahkan copy semua ke partisi efi.
 
-<img src="https://raw.githubusercontent.com/praptoherlambang/Kexts-High-Sierra-Acer-4752-Works/images/desktop.jpg"/>
+<img src="https://github.com/praptoherlambang/Kexts-High-Sierra-Acer-4752-Works/blob/main/images/desktop.jpeg?raw=true"/>
 
 Graphic Intel HD 3000 Qe/ci
 
